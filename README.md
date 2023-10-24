@@ -13,6 +13,7 @@
 | Gerador de Senhas | Gera Senhas Aleatórias e Customizáveis                                |
 | Ping Sweeper      | Varre a Rede com Pings para Identificar Hosts                         |
 | Regras de Firewall| Adiciona Regras de Entrada e Saída no Firewall do Windows             |
+| Jogo Matemática   | Jogo de Matemática - Básico                                           |
 
 </div> 
 </details>
